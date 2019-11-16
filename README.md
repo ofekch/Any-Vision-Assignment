@@ -1,7 +1,7 @@
 # Any-Vision-Assignment
 Python assignment by Ofekch.
 Written in Python 3.7, using Threading module and Flask framework.
-##instructions:
+## Instructions:
 - Install requirements file
 - Start service by opening command line, and running:
 ```
