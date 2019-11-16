@@ -1,0 +1,2 @@
+This is where the results will be saved. each request to the server will have a directory name after the task id
+with the images inside.

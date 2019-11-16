@@ -1,0 +1,1 @@
+This is the directory where the video frames will be saved before sending them to the service.
