@@ -1,0 +1,1 @@
+from resize_service import application
